@@ -21,7 +21,7 @@
 **Manga-Shoppu** [Github](https://github.com/kendlc/Project1-Manga-Shoppu) [Live-site](https://manga-shoppu.herokuapp.com/)
 </br>Ruby on Rails + PostgreSQL + Jikan API + Heroku
 
-**Sumi Tic-tac-toe**  [Github](https://github.com/kendlc/Project0-Tictactoe) [Live-site](https://github.com/kendlc/Project0-Tictactoe
+**Sumi Tic-tac-toe**  [Github](https://github.com/kendlc/Project0-Tictactoe) [Live-site](https://github.com/kendlc/Project0-Tictactoe)
 </br>Vanila Javascript + HTML + CSS + Jquery
 
 <!--
