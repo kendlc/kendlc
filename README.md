@@ -1,4 +1,4 @@
-### Hi there, I'm Ken! 👋
+### Hi there, I'm Ken! 👋👾
 
 - 💻 I'm a junior software engineer with a background in electrical engineering.
 
@@ -12,16 +12,16 @@
 ---------------------------------------------------------------------
 
 #### 🔭 Checkout projects I've done so far
-**Pokemon-Quizzr** [Github](https://github.com/kendlc/Project3-Pokemon-Quizzr) [Live-site](https://pokemon-quizzr.netlify.app/)
+⚡️**Pokemon-Quizzr** [Github](https://github.com/kendlc/Project3-Pokemon-Quizzr) [Live-site](https://pokemon-quizzr.netlify.app/)
 </br>React + Node + Firestore + Pokemon API + Netlify
 
-**Expense-Trackr** [Github](https://github.com/kendlc/Project2-Expense-Trackr-Client) [Live-site](https://expense-trackr0.netlify.app/)
+⚡️**Expense-Trackr** [Github](https://github.com/kendlc/Project2-Expense-Trackr-Client) [Live-site](https://expense-trackr0.netlify.app/)
 </br>React + Ruby on Rails(server) + PostgreSQL + JSON Web Tokens + bcrpyt (password encryption) + Cloudinary
 
-**Manga-Shoppu** [Github](https://github.com/kendlc/Project1-Manga-Shoppu) [Live-site](https://manga-shoppu.herokuapp.com/)
+⚡️**Manga-Shoppu** [Github](https://github.com/kendlc/Project1-Manga-Shoppu) [Live-site](https://manga-shoppu.herokuapp.com/)
 </br>Ruby on Rails + PostgreSQL + Jikan API + Heroku
 
-**Sumi Tic-tac-toe**  [Github](https://github.com/kendlc/Project0-Tictactoe) [Live-site](https://github.com/kendlc/Project0-Tictactoe)
+⚡️**Sumi Tic-tac-toe**  [Github](https://github.com/kendlc/Project0-Tictactoe) [Live-site](https://github.com/kendlc/Project0-Tictactoe)
 </br>Vanila Javascript + HTML + CSS + Jquery
 
 <!--
