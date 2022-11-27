@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning TDD and Jest
 - 😄 Check my web portfolio at
-#[kendlcdev.netlify.app/](https://kendlcdev.netlify.app/)
+# [kendlcdev.netlify.app/](https://kendlcdev.netlify.app/)
 - 📫 Reach me at
-#[linkedin.com/in/kennethcdlc/](https://www.linkedin.com/in/kennethcdlc/)
+# [linkedin.com/in/kennethcdlc/](https://www.linkedin.com/in/kennethcdlc/)
 
 - 🔭 Checkout projects I've done so far
 ## ✨ Pokemon-Quizzr  [Github](https://github.com/kendlc/Project3-Pokemon-Quizzr) [Live-site](https://pokemon-quizzr.netlify.app/)
