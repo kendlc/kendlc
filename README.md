@@ -2,7 +2,6 @@
 
 - 💻 I'm a junior software engineer with a background in electrical engineering.
 
-- 🌱 I’m currently learning TDD and Jest
 - 😄 Check my web portfolio at
   [kendlcdev.netlify.app/](https://kendlcdev.netlify.app/)
 - 📫 Reach me at
