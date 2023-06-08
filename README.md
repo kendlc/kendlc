@@ -1,6 +1,6 @@
 ### Hi there, I'm Ken! 👋👾
 
-- 💻 I'm a junior software engineer with a background in electrical engineering.
+- 💻 I'm a software engineer with a background in electrical engineering.
 
 - 😄 Check my web portfolio at
   [kendlcdev.netlify.app/](https://kendlcdev.netlify.app/)
