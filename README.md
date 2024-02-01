@@ -1,7 +1,7 @@
 ### Hi there, I'm Ken! 👋👾
 
 - 💻 I'm a software engineer with a background in electrical engineering.
-
+- 🔭 Currently working with [Tooezy](https://www.tooezy.com/) 🤙🏼
 - 😄 Check my web portfolio at
   [kendlcdev.netlify.app/](https://kendlcdev.netlify.app/)
 - 📫 Reach me at
