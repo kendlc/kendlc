@@ -17,7 +17,7 @@
 ⚡️**Expense-Trackr** [Github](https://github.com/kendlc/Project2-Expense-Trackr-Client) [Live-site](https://expense-trackr0.netlify.app/)
 </br>React + Ruby on Rails(server) + PostgreSQL + JSON Web Tokens + bcrpyt (password encryption) + Cloudinary
 
-⚡️**Manga-Shoppu** [Github](https://github.com/kendlc/Project1-Manga-Shoppu) [Live-site](https://manga-shoppu.herokuapp.com/)
+⚡️**Manga-Shoppu** [Github](https://github.com/kendlc/Project1-Manga-Shoppu) [Live-site](https://manga-shoppu.onrender.com/)
 </br>Ruby on Rails + PostgreSQL + Jikan API + Heroku
 
 ⚡️**Sumi Tic-tac-toe**  [Github](https://github.com/kendlc/Project0-Tictactoe) [Live-site](https://kendlc.github.io/Project0-Tictactoe/)
